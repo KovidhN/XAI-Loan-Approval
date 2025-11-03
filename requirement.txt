@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.40.1
 pandas
 numpy
+scikit-learn
 joblib
 shap
 lime
 matplotlib
-scikit-learn
-sqlite3
+sqlite3-binary
